@@ -24,7 +24,7 @@ public class ContaTerminal {
 
         System.out.println();
 
-        conta.deposit(amount); // função que valor em deposito e realiza a operação de depositar
+        conta.deposit(amount); // função que recebe valor em deposito e realiza a operação de depositar
 
         System.out.println(conta.toString());
 
